@@ -1,0 +1,5 @@
+/* src/index.css */
+.form-control {
+  max-width: 300px; /* Set max-width to control the input size */
+  width: 100%;
+}
